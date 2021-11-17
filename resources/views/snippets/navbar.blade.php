@@ -9,7 +9,7 @@
 
         <!-- Output sign in/sign out buttons appropriately -->
         <div class="navbar-header">
-            <a class="navbar-brand" href="{{ route('index') }}">{{env('APP_NAME')}}</a>
+            <a class="navbar-brand" href="{{ route('index') }}">{{env('APP_NAME')}}11</a>
         </div>
 
         <ul id="navbar" class="nav navbar-collapse collapse navbar-nav" id="nbc">
